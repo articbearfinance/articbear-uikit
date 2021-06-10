@@ -2212,12 +2212,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/DecentralizedLions",
+        href: "http://t.me/decentralizedbearsgroup",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "http://Twitter.com/goldenlionfinan",
+        href: "https://twitter.com/exoticbeardexs",
     },
 ];
 var MENU_HEIGHT = 74;
@@ -2805,7 +2805,7 @@ var brandColors = {
 var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#452A7A", textDisabled: "#BDC2C4", textSubtle: "#0f193b", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#3e3718", background: "#10242b", backgroundDisabled: "#333a3e", contrast: "#FFFFFF", invertedContrast: "#122371", input: "#122371", primaryDark: "##0d0e0e", tertiary: "#2f2803", text: "#e8aa2d", textDisabled: "#666171", textSubtle: "#ddd1c1", borderColor: "#847a35", card: "#203b9ab3", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#3e3718", background: "#10242b", backgroundDisabled: "#333a3e", contrast: "#FFFFFF", invertedContrast: "#122371", input: "#122371", primaryDark: "##0d0e0e", tertiary: "#1f2f67", text: "#e8aa2d", textDisabled: "#666171", textSubtle: "#ddd1c1", borderColor: "#847a35", card: "#203b9ab3", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
